@@ -2,6 +2,8 @@
 
 AnkiのカードのなかでFreedoomを遊べるデッキです(Windows版のAnki向け)。
 
+**現時点では、パソコン(Windows版のAnki)でのみ動作します。スマホ・タブレットには未対応です。**
+
 [English](README.md)
 
 ## 1. Ankiをインストールする(Windows、winget)

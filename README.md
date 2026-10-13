@@ -4,6 +4,8 @@
 
 Play Freedoom inside an Anki card (desktop Anki on Windows).
 
+**Note: this currently works only on a PC (desktop Anki on Windows). Phones and tablets are not supported yet.**
+
 ## 1. Install Anki (Windows, winget)
 
 Open PowerShell or Windows Terminal and run:
