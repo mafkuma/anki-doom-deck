@@ -1,5 +1,7 @@
 # Freedoom in Anki
 
+[日本語](README.ja.md)
+
 Play Freedoom inside an Anki card (desktop Anki on Windows).
 
 ## 1. Install Anki (Windows, winget)
